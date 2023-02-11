@@ -9,3 +9,5 @@
 2. 取引年月日又は取引金額については範囲指定して検索できる。
 
 3. 1.のうち、二以上の項目を組み合わせた条件で検索できる。
+
+https://www.nta.go.jp/law/joho-zeikaishaku/sonota/jirei/tokusetsu/02.htm
